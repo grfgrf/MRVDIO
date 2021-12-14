@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+    input[type="checkbox"]:checked + span {
+    text-decoration: line-through;
+    }
+  </style>  
+  
+</head>
+<body>
+
+  <div class="titulo" id="titulo">
+    To-Do List
+  </div>
+
+  <div id="idAdd">
+    <input class="text" id="text" placeholder="DO do TO-DO" />
+    <button onclick="addItemsTODO()">Add</button>
+  </div>
+
+  <div>
+  <ul  id="idLista" class="cssRiscado" style="list-style: none;">
+    <li>
+     <input type="checkbox">
+     <span>Item1</span>
+    </li>
+  </ul>
+  </div>
+
+
+  <script>
+    function addItemsTODO() {
+    
+    //Novo item do input  
+    const novoItem = document.getElementById("text").value;
+    
+    //ul que a lista está presente
+    const ul = document.getElementById("idLista");
+
+    //Novo <li>
+    const li = document.createElement("li");
+    
+    //Novo botão checkbox
+    const novoInput = document.createElement("input")
+    novoInput.setAttribute("type", "checkbox");
+    
+    //Novo item do input dentro de <span> para trocar o estilo 
+    const novoSpan = document.createElement("span")
+          novoSpan.innerText = novoItem
+    
+    //atribuições
+    li.appendChild(novoInput);
+    li.appendChild(novoSpan);
+    ul.appendChild(li);
+  }
+  
+  </script>
+  
+
+</body>
+</html>
