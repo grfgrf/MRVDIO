@@ -133,14 +133,11 @@ namespace projeto3_mrv
 
 			Console.Write("Digite a Descrição da Série: ");
 			string entradaDescricao = Console.ReadLine();
-System.Console.WriteLine(entradaTitulo+"anoooo");
-System.Console.WriteLine(repositorio.ProximoId()+"idddd");
 			Serie novaSerie = new Serie(id: repositorio.ProximoId(),
 										genero: (Genero)entradaGenero,
 										titulo: entradaTitulo,
 										ano: entradaAno,
 										descricao: entradaDescricao);
-            System.Console.WriteLine(novaSerie);
 			repositorio.Insere(novaSerie);
 		}
 
