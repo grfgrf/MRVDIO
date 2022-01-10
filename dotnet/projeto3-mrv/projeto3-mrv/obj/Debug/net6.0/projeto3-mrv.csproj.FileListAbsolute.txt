@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\bin\Debug\net6.0\projeto3-mrv.exe
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\bin\Debug\net6.0\projeto3-mrv.deps.json
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\bin\Debug\net6.0\projeto3-mrv.runtimeconfig.json
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\bin\Debug\net6.0\projeto3-mrv.dll
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\bin\Debug\net6.0\ref\projeto3-mrv.dll
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\bin\Debug\net6.0\projeto3-mrv.pdb
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\obj\Debug\net6.0\projeto3-mrv.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\obj\Debug\net6.0\projeto3-mrv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\obj\Debug\net6.0\projeto3-mrv.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\obj\Debug\net6.0\projeto3-mrv.AssemblyInfo.cs
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\obj\Debug\net6.0\projeto3-mrv.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\obj\Debug\net6.0\projeto3-mrv.dll
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\obj\Debug\net6.0\ref\projeto3-mrv.dll
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\obj\Debug\net6.0\projeto3-mrv.pdb
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\projeto3-mrv\projeto3-mrv\obj\Debug\net6.0\projeto3-mrv.genruntimeconfig.cache
