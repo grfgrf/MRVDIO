@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\bin\Debug\net6.0\ExemploColecoes.exe
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\bin\Debug\net6.0\ExemploColecoes.deps.json
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\bin\Debug\net6.0\ExemploColecoes.runtimeconfig.json
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\bin\Debug\net6.0\ExemploColecoes.dll
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\bin\Debug\net6.0\ref\ExemploColecoes.dll
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\bin\Debug\net6.0\ExemploColecoes.pdb
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\obj\Debug\net6.0\ExemploColecoes.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\obj\Debug\net6.0\ExemploColecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\obj\Debug\net6.0\ExemploColecoes.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\obj\Debug\net6.0\ExemploColecoes.AssemblyInfo.cs
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\obj\Debug\net6.0\ExemploColecoes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\obj\Debug\net6.0\ExemploColecoes.dll
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\obj\Debug\net6.0\ref\ExemploColecoes.dll
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\obj\Debug\net6.0\ExemploColecoes.pdb
+C:\Users\admin\Desktop\Git\MRVDIO\dotnet\Colecoes\ExemploColecoes\obj\Debug\net6.0\ExemploColecoes.genruntimeconfig.cache
